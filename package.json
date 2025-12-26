@@ -1,0 +1,16 @@
+{
+  "name": "user-curd-operations",
+  "version": "1.0.0",
+  "description": "curd api for users",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pranivvv/user-curd-operations.git"
+  },
+  "license": "ISC",
+  "author": "pranivvv",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
